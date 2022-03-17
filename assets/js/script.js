@@ -39,12 +39,3 @@ $(document).ready(function(){
         })
     });
 })
-//save tasks
-// on save button click, identify what text is in the box, save that as an object to an array in local storage
-
-
-/* 
-WHEN I refresh the page
-THEN the saved events persist
-(load saved objs)
-*/
